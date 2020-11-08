@@ -1,4 +1,4 @@
-# BTI-Shiny-App
+# BTI Shiny App
 
 This has been my first attempt to build my own interactive app using R Shiny.
 
